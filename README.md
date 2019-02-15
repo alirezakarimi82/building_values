@@ -51,5 +51,5 @@ In order to use GMaps, you must obtain an API key from google's website. [Click 
 
 Following, a screenshot of the web app is illustrated,
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
